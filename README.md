@@ -19,3 +19,5 @@ Coding dojo realizado no agileday sobre javascript utilizando jasmine.
 * Mauricio Andreazza Sganderla
 	- Github: [@mauricioweb](http://github.com/mauricioweb)
 	- Twitter: [@m_andreazza](http://twitter.com/m_andreazza)
+
+Link rápido: [http://tinyurl.com/agiledayjs](http://tinyurl.com/agiledayjs)
