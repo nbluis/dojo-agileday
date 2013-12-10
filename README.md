@@ -10,7 +10,7 @@ Coding dojo realizado no agileday sobre javascript utilizando jasmine.
 
 # Spec
 
-# Autores
+# Facilitadores
 * Eduardo Bohrer
 	- Github [@nbluis](http://github.com/nbluis)
 	- Twitter: [@nbluis](http://twitter.com/nbluis)
