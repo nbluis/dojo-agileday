@@ -8,8 +8,6 @@ Coding dojo realizado no agileday sobre javascript utilizando jasmine.
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Jasmine](http://pivotal.github.io/jasmine/)
 
-# Spec
-
 # Facilitadores
 * Eduardo Bohrer
 	- Github [@nbluis](http://github.com/nbluis)
@@ -46,6 +44,12 @@ Então sistema deve guardar o tweet para uma leitura futura
 Dado que encontrei um user para seguir  
 Quando adicionar o user  
 Então o novo usuário deve estar na lista dos quais eu sigo
+
+####Critério 6
+Dado que tweets são enviados      
+Quando os tweets forem listados na minha timeline    
+Então sistema deve me informar a quanto tempo foi enviado cada um dos tweets
+
 
 
 
