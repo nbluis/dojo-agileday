@@ -20,4 +20,33 @@ Coding dojo realizado no agileday sobre javascript utilizando jasmine.
 	- Github: [@mauricioweb](http://github.com/mauricioweb)
 	- Twitter: [@m_andreazza](http://twitter.com/m_andreazza)
 
+# Critérios de aceitação
+
+####Critério 1
+Dado que quero enviar um tweet
+Quando digitar mais de 140 caracteres
+Então sistema deve validar quantidade máxima de 140 caracteres
+
+####Critério 2
+Dado que quero enviar um tweet
+Quando não digitar nenhum caracter
+Então sistema deve validar que deve ser digitado ao menos 1 caracter
+
+####Critério 3
+Dado que envio um tweet
+Quando listar os meus tweets
+Então o novo tweet deve aparecer na listagem
+
+####Critério 4
+Dado que achei um tweet interessante
+Quando favoritar o tweet
+Então sistema deve guardar o tweet para uma leitura futura
+
+####Critério 5
+Dado que encontrei um user para seguir
+Quando adicionar o user
+Então o novo usuário deve estar na lista dos quais eu sigo
+
+
+
 Link rápido: [http://tinyurl.com/agiledayjs](http://tinyurl.com/agiledayjs)
