@@ -6,7 +6,7 @@ Coding dojo realizado no agileday sobre javascript utilizando jasmine.
 - [Agile Day 2013](http://www.sucesurs.org.br/evento/agile-day-2013)
 - [Coding Dojo](http://codingdojo.org/)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Jasmine](http://pivotal.github.io/jasmine/)
+- [Jasmine](https://jasmine.github.io/)
 
 # Facilitadores
 * Eduardo Bohrer
